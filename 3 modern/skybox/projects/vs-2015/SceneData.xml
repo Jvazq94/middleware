@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<scene>
+<entities>
+
+<entity name ="Mesh">
+<components>
+<position>0,0,-2</position>
+<scale>1,1,1</scale>
+<mesh>../../../../assets/chair.obj</mesh>
+<texture>../../../../assets/wood-crate-1.tga</texture>
+</components>
+</entity>
+<entity name ="Mesh2">
+<components>
+<position>0.5,-1,-2</position>
+<scale>1,1,1</scale>
+<mesh>../../../../assets/chair.obj</mesh>
+<texture>../../../../assets/wood-crate-1.tga</texture>
+</components>
+</entity>
+<entity name ="Mesh3">
+<components>
+<position>-0.4,-1,-3</position>
+<scale>1,1,1</scale>
+<mesh>../../../../assets/chair.obj</mesh>
+<texture>../../../../assets/wood-crate-1.tga</texture>
+</components>
+</entity>
+</entities>
+</scene>

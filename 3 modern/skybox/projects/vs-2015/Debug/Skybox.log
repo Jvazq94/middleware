@@ -1,0 +1,25 @@
+﻿  main.cpp
+c:\users\cebol\desktop\jorge_vazquez_romero_malla_luz\libraries\nanogui-vs2017\include\nanogui\layout.h(423): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1959): note: vea la declaración de '_snprintf'
+c:\users\cebol\desktop\jorge_vazquez_romero_malla_luz\libraries\nanogui-vs2017\include\nanogui\textbox.h(283): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1959): note: vea la declaración de '_snprintf'
+  c:\users\cebol\desktop\jorge_vazquez_romero_malla_luz\libraries\nanogui-vs2017\include\nanogui\textbox.h(280): note: durante la compilación de la función miembro de plantilla clase de 'void nanogui::FloatBox<T>::setValue(Scalar)'
+          with
+          [
+              T=float,
+              Scalar=float
+          ]
+  c:\users\cebol\desktop\jorge_vazquez_romero_malla_luz\libraries\nanogui-vs2017\include\nanogui\textbox.h(349): note: vea la referencia a la creación de instancias de plantilla de función 'void nanogui::FloatBox<T>::setValue(Scalar)' que se está compilando
+          with
+          [
+              T=float,
+              Scalar=float
+          ]
+  c:\users\cebol\desktop\jorge_vazquez_romero_malla_luz\libraries\nanogui-vs2017\include\nanogui\formhelper.h(386): note: vea la referencia a la creación de instancias de plantilla clase de 'nanogui::FloatBox<T>' que se está compilando
+          with
+          [
+              T=float
+          ]
+  c:\users\cebol\desktop\jorge_vazquez_romero_malla_luz\3 modern\skybox\projects\consoleapplication1\consoleapplication1\code\sample.hpp(253): note: vea la referencia a la creación de instancias de plantilla clase de 'nanogui::detail::FormWidget<float,std::true_type>' que se está compilando
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Skybox.vcxproj -> C:\Users\cebol\Desktop\Jorge_Vazquez_Romero_Malla_Luz\3 modern\skybox\projects\vs-2015\Debug\Skybox.exe

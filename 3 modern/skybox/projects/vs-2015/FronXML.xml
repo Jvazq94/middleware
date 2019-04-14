@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene>
+  <entities>
+    
+    <grup name ="Mesh Paths">
+  <components>
+    <pathMesh>Mesh Path</pathMesh>
+    <texturePath>Texture Path</texturePath>
+    
+  </components>
+</grup>
+    
+      
+<grup name ="Mesh Options">
+  <components>
+    <name>Name</name>
+    <positionX>PositionX</positionX>
+    <positionY>PositionY</positionY>
+    <positionZ>PositionZ</positionZ>
+    <scale>Scale</scale>
+    <rotate>Rotate</rotate>
+    <createMesh>Create Mesh</createMesh>
+    
+  </components>
+</grup>
+
+<grup name ="Load Scene from XML">
+  <components>
+    <xmlPath>XML Path</xmlPath>
+    <loadXML>Load XML</loadXML>
+    <saveScene>Save Scene</saveScene>
+    <deleteScene>Delete Content</deleteScene>
+    
+  </components>
+</grup>
+</entities>
+</scene>
